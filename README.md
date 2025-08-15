@@ -3,7 +3,7 @@
 # Programación con objetos I
 
 
-### Alguien que no encontraba su lugar.
+## Alguien que no encontraba su lugar.
 Buenas, soy Darío Robles. Soy de William Morris, Hurlingham. Estoy en mi segundo año de cursada de la Tecnicatura Universitaria en Programación de Videojuegos. Me inscribí en esta carrera porque me interesa mucho todo lo que conlleva la creación de un videojuego: desde el arte, la música y las historias, hasta la programación, que une todas estas formas de arte.
 
 Aun así, me costó mucho llegar a esta conclusión. Al terminar la secundaria en 2018 —bastante tarde, ya que estudié en una escuela técnica— no sabía qué quería hacer realmente. Pensaba dedicarme a la ilustración, ya que pasaba mucho tiempo dibujando y practicando, porque era lo que más me gustaba hacer.
